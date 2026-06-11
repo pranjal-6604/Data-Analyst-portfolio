@@ -36,6 +36,14 @@ The dataset consists of five tables:
 ## Dashboard Preview
 ![Dashboard](PowerBI/Dashboard.png)
 
+## Key Insights
+- Electronics category generates the highest revenue, indicating it is the primary revenue driver.
+- Monthy revenue shows an increasing trend, suggesting overall business growth overtime.
+- A customer from the Delhi has the highest average spending, highlighting the presence of high_value customers.
+- Average customer spending varies across cities, indicating regional differences in purchasing behavior.
+- Some orders remain unpaid, impacting actual revenue realization and cash flow.
+- Majority of orders are successfully delivered, indicating operational efficiency in order fulfillment.
+
 ## Conclusion
 This project demonstrate the ability to analyze structured data and generate meaningful business insights using SQL and Power BI.
 
